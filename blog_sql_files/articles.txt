@@ -1,3 +1,0 @@
-8	test	<p>test</p>	/uploads/1652654234.jpg	2022-05-15 19:37:14	2022-05-15 19:37:14
-9	Technology 1	<p>test</p>	/uploads/1652654252.jpg	2022-05-15 19:37:32	2022-05-15 19:37:32
-10	Sopranos Article	<p>sopranos</p>	/uploads/1652654270.jpg	2022-05-15 19:37:50	2022-05-15 19:37:50
